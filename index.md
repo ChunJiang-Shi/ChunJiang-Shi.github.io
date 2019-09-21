@@ -15,10 +15,13 @@ ChunJiang is an undergraduate majoring in physics at University of Chinese Acade
 
 ## Contact:
 Address: University of Chinese Academy of Science, Beijing, 100049, P. R. China
+
 E-mail: shichunjiang16 "at" mails.ucas.ac.cn
 
 ## Research Interests:
-Computational Physics, Theoretical Physics and Cosmology. Recently in lattice QCD.
+Computational Physics, Theoretical Physics and Cosmology. 
+
+Recently in lattice QCD.
 
 ## learning notes
 
