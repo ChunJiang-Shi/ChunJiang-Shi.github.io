@@ -23,5 +23,6 @@ Computational Physics, Theoretical Physics and Cosmology.
 
 Recently in lattice QCD.
 
-## learning notes
+## Some precious notes
+There are my previous study notes, while some bibliography were lost.
 
