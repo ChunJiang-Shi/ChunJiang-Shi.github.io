@@ -10,3 +10,8 @@ description: "This is Shi,ChunJiang's personal Blog. Here I will put some of my 
 keyword: "Chunjiang, Chunjiang's Blog, 春江的博客, ChunJiang-Shi, 春江, hep-lat, LQCD" #关键词
 url: "https://chunjiang-shi.github.io"          # 这个就是填写你的博客地址
 baseurl: ""      # 这个我们不用填写
+
+# Sidebar settings
+#sidebar: true                           # 是否开启侧边栏.
+#sidebar-about-description: "说点装逼的话。。。"
+#sidebar-avatar:/img/avatar-by.JPG      # 你的个人头像 这里你可以改成我在img文件夹中的两张备用照片 im
