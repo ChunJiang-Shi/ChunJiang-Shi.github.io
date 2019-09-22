@@ -10,10 +10,10 @@
     </script>
 </head>
 
----
+{%---
 layout: page
 description: "Thinking will not overcome fear but action will."
----
+---%}
 
 {% for post in paginator.posts %}
 <div class="post-preview">
