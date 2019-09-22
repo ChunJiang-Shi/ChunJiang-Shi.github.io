@@ -51,7 +51,12 @@
 {% endif %}
 
 # ChunJiang Shi
-![Alt text](img/pic02.jpg)
+
+![1](./img/pic02.jpg){:width="400" height="150"}
+
+<div align="center">
+<img src="./img/pic02" width="600" height="280">
+ </div>
 
 ChunJiang is an undergraduate majoring in physics at University of Chinese Academy of Science, Beijing. He devotes to be a physics researcher. 
 
