@@ -6,7 +6,7 @@ title: Chunjiang's Blog                     #你博客的标题
 SEOTitle: 春江的个人博客 | Chunjiang's Blog        #显示在浏览器上搜索的时候显示的标题
 #header-img: img/post-bg-rwd.jpg     #显示在首页的背景图片
 email: shichunjiang16@mails.ucas.ac.cn    
-description: "This is Shi,ChunJiang's personal Blog. Here I will put some of my study and research notes. This might be useless to you but help me record my career. "              #网站介绍
+description: "This is Shi,ChunJiang's personal Blog. Here I will put some of my study and research notes.\\ This might be useless to you but help me record my career. "              #网站介绍
 keyword: "Chunjiang, Chunjiang's Blog, 春江的博客, ChunJiang-Shi, 春江, hep-lat, LQCD" #关键词
 url: "https://chunjiang-shi.github.io"          # 这个就是填写你的博客地址
 baseurl: ""      # 这个我们不用填写
