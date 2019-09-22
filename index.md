@@ -54,6 +54,8 @@ description: "Thinking will not overcome fear but action will."
 {% endif %}
 
 # ChunJiang Shi
+![Alt text](img/pic1.jpg)
+
 ChunJiang is an undergraduate majoring in physics at University of Chinese Academy of Science, Beijing. He devotes to be a physics researcher. 
 
 ## Contact:
